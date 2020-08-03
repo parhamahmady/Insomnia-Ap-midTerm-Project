@@ -1,0 +1,4 @@
+MyRequest
+http://www.google.com/
+-M
+GET
